@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BugDemo</string>
+    <string name="image_composable">Image Composable</string>
+    <string name="box_composable">Box Composable</string>
+    <string name="enter_any_text">Enter any text</string>
+</resources>
